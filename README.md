@@ -16,7 +16,11 @@ ANSWERS :
 
 a) False
 
-b) False
+Predictive Analytics is used to predict future outcomes.
+
+b) TRUE
+
+Base packages can be seen using  installed.packages()
 
 2.   Recycling occurs when vector arithmetic is performed on multiple vectors of different sizes. R takes the shorter vector and repeats them until it becomes long enough to match the longer one.
 When applying an operation to two vectors that requires them to be the same length, R automatically recycles, or repeats, elements of the shorter one, until it is long enough to match the longer Vector. 
