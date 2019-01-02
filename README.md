@@ -14,7 +14,7 @@ b) Base R packages are installed automatically
 
 ANSWERS : 
 
-a) True
+a) False
 
 b) False
 
